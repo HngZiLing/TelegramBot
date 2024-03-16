@@ -1,20 +1,14 @@
-## Requirements for Group Project
-
-[Read the instruction](https://github.com/STIW3054-A221/class-activity-soc/blob/main/GroupProject.md)
-
 ## Group Info:
 
-|                                                              Photo                                                              |                             Info                              |
-|:-------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------:|
-|                                 <img src="images/Member Photo/Gambar Pelajar.jpg" height="200">                                 | **Leader**<br/><br/>Thong Wei Yong<br/>279932<br/>017-4532196 |
-|                               <img src="images/Member Photo/H'ng Zi Ling 281895.png" width="150">                               |           H'ng Zi Ling<br/>281895<br/>012-4413822             |
-|                              <img src="images/Member Photo/WONG SEOW TING 278263.jpg" width="150">                              |           Wong Seow Ting<br/>278263<br/>016-6781186           |
-|  <img src="https://user-images.githubusercontent.com/93357404/198525548-08bd01a4-30d4-404c-b247-71c231b8d27b.JPG" width="150">  |            Chow Sook Qi<br/>279079<br/>014-6003250            |
-| <img src="https://user-images.githubusercontent.com/104199648/201666066-66e34779-9633-4bb3-b042-5421505182b7.jpg" width="150">  |          Leong Chun Loon<br/>278884<br/>016-6470751           |
+1.  H'ng Zi Ling
+2.  Leong Chun Loon
+3.  Chow Sook Qi
+4.  Thong Wei Yong
+5.  Wong Seow Ting
 
 ## Title of your application
 
-Telegram Bot -STIW3054_Fivesome_bot
+Telegram Bot - STIW3054_Fivesome_bot
 
 ## Introduction
 
@@ -28,10 +22,7 @@ The user can booked the room based on their date,start time and end time. A user
 booking info and the user can cancel the booking.
 
 ## Flow Diagram of the requirements
-
-![FlowDiagram drawio](https://user-images.githubusercontent.com/104199648/210704471-da687abb-3bc8-476e-8fa4-9207b1b518da.png)
-
-## User manual for installing your application on Heroku Server
+<img src="https://user-images.githubusercontent.com/104199648/210704471-da687abb-3bc8-476e-8fa4-9207b1b518da.png" width="750">
 
 ## User manual/guideline for testing the system
 
@@ -98,49 +89,24 @@ booking info and the user can cancel the booking.
 - if the system admin confirm, school admin status change to approved
 
 ## Result/Output (Screenshot of the output)
-User Booking
 
-![o1](https://user-images.githubusercontent.com/104199648/213587199-defc205f-5cd0-4a62-a2fd-496e45835728.PNG)
+### User ###
+||Feature|Output|
+|--|--|:--:|
+|<td valign="top">Booking</td>|<img src="https://user-images.githubusercontent.com/104199648/213587199-defc205f-5cd0-4a62-a2fd-496e45835728.PNG" width="600"><br><img src="https://user-images.githubusercontent.com/104199648/213587214-dda932ff-e41c-4a2a-b868-fde341b68ffe.PNG" width="600"><br><img src="https://user-images.githubusercontent.com/104199648/213587419-06cb8090-0e9a-43c8-8940-4bf911ec0dc0.PNG" width="600"><br><img src="https://user-images.githubusercontent.com/104199648/213587443-dddbea9c-8ac9-4c98-bf96-1f8547e687fc.PNG" width="600"><br><img src="https://user-images.githubusercontent.com/104199648/213587460-0e1f427b-78f9-424b-8d7f-a2cffcb10813.PNG" width="600"><br><img src="https://user-images.githubusercontent.com/104199648/213587509-55f1e198-db8f-4b50-b404-40f70eee8f9d.PNG" width="600"><br><img src="https://user-images.githubusercontent.com/104199648/213587521-7c1520a8-ec3f-41e0-b8bc-e839b46a4954.PNG" width="600"><br><img src="https://user-images.githubusercontent.com/104199648/213587530-dce84aaf-eb4d-4c56-8b88-bf5306496c50.PNG" width="600"><br><img src="https://user-images.githubusercontent.com/104199648/213587548-3bc91230-4532-4299-87ef-5e019d5c4066.PNG" width="600"><br><img src="https://user-images.githubusercontent.com/104199648/213587555-5f59965f-595a-44d9-87df-747b03a2962e.PNG" width="600">|
+|<td valign="top">Cancel</td>|<img src="https://user-images.githubusercontent.com/104199648/213587687-45fbab6f-21a0-459f-8907-f7227357557b.PNG" width="600"></br><img src="https://user-images.githubusercontent.com/104199648/213587700-531aff03-a229-43dd-8d1c-55cebb425bcb.PNG" width="600">|
+|<td valign="top">Apply</td>|<img src="images/5.0.png" width="600"><br><img src="images/5.1.png" width="600"><br><img src="images/5.2.png" width="600"><br><img src="images/5.3.png" width="600">|
 
-![o2](https://user-images.githubusercontent.com/104199648/213587214-dda932ff-e41c-4a2a-b868-fde341b68ffe.PNG)
-
-
-![o3](https://user-images.githubusercontent.com/104199648/213587419-06cb8090-0e9a-43c8-8940-4bf911ec0dc0.PNG)
-![o5](https://user-images.githubusercontent.com/104199648/213587443-dddbea9c-8ac9-4c98-bf96-1f8547e687fc.PNG)
-![o7](https://user-images.githubusercontent.com/104199648/213587460-0e1f427b-78f9-424b-8d7f-a2cffcb10813.PNG)
-![o8](https://user-images.githubusercontent.com/104199648/213587509-55f1e198-db8f-4b50-b404-40f70eee8f9d.PNG)
-![o9](https://user-images.githubusercontent.com/104199648/213587521-7c1520a8-ec3f-41e0-b8bc-e839b46a4954.PNG)
-![o11](https://user-images.githubusercontent.com/104199648/213587530-dce84aaf-eb4d-4c56-8b88-bf5306496c50.PNG)
-![o13](https://user-images.githubusercontent.com/104199648/213587548-3bc91230-4532-4299-87ef-5e019d5c4066.PNG)
-![o14](https://user-images.githubusercontent.com/104199648/213587555-5f59965f-595a-44d9-87df-747b03a2962e.PNG)
-
-User Cancel
-![C1](https://user-images.githubusercontent.com/104199648/213587687-45fbab6f-21a0-459f-8907-f7227357557b.PNG)
-![C2](https://user-images.githubusercontent.com/104199648/213587700-531aff03-a229-43dd-8d1c-55cebb425bcb.PNG)
-
-User Apply
-![a1](images/5.0.png)
-![a2](images/5.1.png)
-![a3](images/5.2.png)
-![a4](images/5.3.png)
-
-School admin register room
-![r1](images/1.0Register.png)
-![r2](images/1.1Register.png)
-![r3](images/1.2Register.png)
-
-School admin update room
-
-![u1](images/u.png)
-![u2](images/u2.png)
-
-School admin check application status
-
-![check](images/3.0check.png)
+### School Admin ###
+||Feature|Output|
+|--|:--:|:--:|
+| <td valign="top">Register room</td>|<img src="images/1.0Register.png" width="600"><br><img src="images/1.1Register.png" width="600"><br><img src="images/1.2Register.png" width="600">|
+| <td valign="top">Update room</td>|<img src="images/u.png" width="600"><br><img src="images/u2.png" width="600">|
+| <td valign="top">Check application status</td>|<img src="images/3.0check.png" width="600">|
 
 ## Use Case Diagram
 
-![useCaseDiagram.png](https://github.com/STIW3054-A221/group-project-fivesome/blob/master/images/useCaseDiagram.png)
+<img src="https://github.com/STIW3054-A221/group-project-fivesome/blob/master/images/useCaseDiagram.png" width="500">
 
 ## UML Class Diagram
 
@@ -150,11 +116,7 @@ School admin check application status
 
 <img src="images/databaseDesign.png" width="800">
 
-## Youtube Presentation
-
-https://youtu.be/nlqMT8U-GG8
-
-## References (Not less than 20)
+## References
 
 Academy, S. (2022, May 5). _Java telegram bot PRO!_ YouTube. https://www.youtube.com/watch?v=qdrCGjskHKQ
 
